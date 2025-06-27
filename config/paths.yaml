@@ -1,0 +1,4 @@
+paises_path: "C:/Users/dpsoe/OneDrive/Dev/paises_de_para.csv"
+all_competitions_path: "C:\\Users\\dpsoe\\OneDrive\\Documentos\\airflow\\data\\path_file_competitions_FBREF22.json"
+all_teams_path: "C:\\Users\\dpsoe\\OneDrive\\Documentos\\airflow\\data\\times_disponiveis_teste.json"
+path_
